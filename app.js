@@ -12,7 +12,7 @@ const https = require('https');
 const fs = require('fs');
 
 const app = express();
-const bot = new TelegramBot(process.env.TELEGRAM_BOT_TOKEN, { polling: true });
+const bot = new TelegramBot(process.env.8052531741:AAEgtrQtk8X_sNmpBItC9aOGyUR06k6Hq68, { polling: true });
 const debug = createDebug('debug:server');
 
 const VIEW_HOST = process.env.VIEW_HOST;
